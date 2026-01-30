@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PyTorch, React and DSA<br><br>👯 I’m looking to collaborate on ML or frontend projects<br><br>🤝 I’m looking for help with Web3 and Devops<br><br>📫 How to reach me gursimar1731@gmail.com<br><br>⚡ Fun fact I sleep on caffeine
+🌱 I’m currently learning PyTorch, React and DSA<br><br>👯 I’m looking to collaborate on ML or frontend projects<br><br>🤝 I’m looking for help with Web3 and Devops<br><br>📫 How to reach me gursimar1731@gmail.com<br><br>⚡ Fun fact I touch grass
 
 
 ## 🌐 Socials:
